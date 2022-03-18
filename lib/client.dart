@@ -14,7 +14,7 @@ import 'package:quiver/iterables.dart';
 
 const Duration _defaultTimeout = Duration(seconds: 10);
 const String _bearerToken =
-    'Bearer AAAAAAAAAAAAAAAAAAAAAPYXBAAAAAAACLXUNDekMxqa8h%2F40K4moUkGsoc%3DTYfbDKbT3jJPCEVnMYqilB28NHfOPqkca3qaAxGfsyKCs0wRbw';
+    'Bearer AAAAAAAAAAAAAAAAAAAAAJ1iZgEAAAAACvta9ZpM8dCrnXhqfq9GVfk%2FsjU%3D02MakgCQZchjXiX0kPj2OnHyhJJnLxIuklZYcPsinP0DyHcFo1';
 
 class _FritterTwitterClient extends TwitterClient {
   static final log = Logger('_FritterTwitterClient');
